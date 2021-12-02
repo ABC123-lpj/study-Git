@@ -8,6 +8,11 @@ cloned from [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/k
 
 
 ***********************************
+*************************************
+
+3、git merge 冲突解决
+
+************************************
 
 ## UPDATE:
 - supporting inception_resnet_v2
