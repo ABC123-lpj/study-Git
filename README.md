@@ -3,7 +3,8 @@ Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Re
 cloned from [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/keras-frcnn/)
 
 *********************************
-1、git学习test
+1、git学习test 
+
 2、bb分支test
 
 
@@ -13,6 +14,8 @@ cloned from [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/k
 3、git merge 冲突解决
 
 4、git push测试
+
+5、git pull测试
 ************************************
 
 ## UPDATE:
